@@ -1,0 +1,35 @@
+* {
+    margin: 0%;
+    margin-left: 03px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    background-image: url(./fundo.png);
+    margin-top: 5px;
+}
+
+nav {
+    background-color: #bd7d7d;
+    width: 900px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 25px;
+    color: rgb(49, 44, 44);
+}
+
+main {
+    width: 900px;
+    background-color: white;
+    margin-left: 0px;
+}
+
+.fotos {
+    border: solid 6px #bd7d7d;
+}
+
+footer {
+    margin-left: 350px;
+}
